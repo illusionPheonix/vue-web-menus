@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>图标/导航默认/操作日志</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标/导航默认/操作日志" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" fill="#909399">
+            <g id="编组" transform="translate(1.000000, 1.000000)">
+                <rect id="矩形" x="7" y="7" width="16" height="2" rx="1"></rect>
+                <rect id="矩形备份" x="7" y="14" width="13" height="2" rx="1"></rect>
+                <rect id="矩形备份-2" x="7" y="21" width="9" height="2" rx="1"></rect>
+                <path d="M28,0 C29.1045695,0 30,0.8954305 30,2 L30,28 C30,29.1045695 29.1045695,30 28,30 L2,30 C0.8954305,30 0,29.1045695 0,28 L0,2 C0,0.8954305 0.8954305,0 2,0 L28,0 Z M2,2 L2,28 L28,28 L28,2 L2,2 Z" id="矩形" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
